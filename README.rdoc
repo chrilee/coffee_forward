@@ -1,1 +1,3 @@
 == Coffee Pay It Foward
+
+App that lets users pay each other with a gift/coffee through their profile.
