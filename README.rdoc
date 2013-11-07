@@ -1,3 +1,7 @@
-== Coffee Pay It Foward
+= <b>Coffee Pay It Foward</b>
 
-App that lets users pay each other with a gift/coffee through their profile.
+== Objective
+# App that lets users pay each other with a gift/coffee through their.
+
+== How
+# Each MDM student will have a profile with a link that allows other students to pay them
