@@ -1,9 +1,7 @@
-=begin rdoc
-= <b>Coffee Pay It Foward</b>
+= Coffee Pay It Foward
 
 == Objective
 App that lets users pay each other with a gift/coffee through their.
 
 == How
 Each MDM student will have a profile with a link that allows other students to pay them
-=end
